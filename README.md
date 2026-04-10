@@ -1,5 +1,6 @@
 ## Hi there 👋
 Lets Learn New techs
+editing this everyday makes it prodctive
 <!--
 **ManOfCulture01/ManOfCulture01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
